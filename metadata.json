@@ -1,0 +1,6 @@
+{
+  "name": "OpenWhats",
+  "description": "Autonomous General AI Agent that can plan, research, and execute complex tasks from start to finish with cloud workspace, browser operator, and terminal execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
